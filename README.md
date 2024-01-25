@@ -1,3 +1,5 @@
+![Screenshot do site](./Preview.png)
+
 # Como usar
 
 Este é um projeto que mostra um texto colorido e em caixa alta na tela.
