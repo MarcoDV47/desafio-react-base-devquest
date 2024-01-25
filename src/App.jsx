@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <P text="estômago 2 - pra quê?" userColor="gold"/>
-    <Button label="dadadadadadd"/>
+    <Button />
     </>
   )
 }
